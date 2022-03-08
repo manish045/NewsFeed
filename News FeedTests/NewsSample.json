@@ -1,0 +1,58 @@
+{
+    "pagination": {
+        "limit": 20,
+        "offset": 1,
+        "count": 20,
+        "total": 10000
+    },
+    "data": [
+        {
+            "author": null,
+            "title": "Ceuta : Cinq mineurs marocains portés disparus après avoir tenté de se rendre en Espagne",
+            "description": "En Espagne et à Ceuta, les autorités locales et les ONG sont mobilisées depuis mardi 30 novembre, après la disparition de cinq mineurs marocains isolés arrivés dans la ville en mai, qui auraient entrepris la traversée de la ville autonome en direction de la péninsule. Selon l’agence espagnole EFE et le média local El Faro de Ceuta, Ahmed El Mehdi, Alae Akka, Tarik Rbati, Brahim Abughar et Yahya Laroussi se seraient rencontrés, la nuit du mardi 30 novembre, pour «monter à bord d’un bateau gris» et partir pour l’Espagne.",
+            "url": "https://www.yabiladi.com/articles/details/121879/ceuta-cinq-mineurs-marocains-portes.html",
+            "source": "yabiladi.com",
+            "image": "https://static.yabiladi.com/files/articles/ed7288c2211a776093a110c84dc3ee8f20211207154320150.jpg",
+            "category": "general",
+            "language": "ar",
+            "country": "ma",
+            "published_at": null
+        },
+        {
+            "author": null,
+            "title": "-كأس العرب- التي سيفوز بها -العجم- - أحمد عصيد",
+            "description": "#الحوار_المتمدن #أحمد_عصيد يحتج الأمازيغ والكورد والأقباط والزنوج والأشوريون وغيرهم من القوميات المتواجدة على خريطة شمال إفريقيا والشرق الأوسط ، على تسمية \"كأس العرب\" التي أطلقها عرب الخليج على الدوري المنظم حاليا بقطر، أقول عرب الخليج لأن \"الفيفا\" لم تطلق على الكأس إسم \"كأس العرب\" بل أسمتها الكأس العربية Arab Cup أو بالفرنسية La coupe...",
+            "url": "https://www.ssrcaw.org/ar/show.art.asp?aid=740098",
+            "source": "Ahewar.org",
+            "image": "https://ahewar.net/Upload/user/images/20fc485e-854a-467b-9a39-d893a10ffc96.jpg",
+            "category": "general",
+            "language": "ar",
+            "country": "iq",
+            "published_at": null
+        },
+        {
+            "author": null,
+            "title": "L’Algérie boycotte la CAN de handball organisée à Guelmim et Laayoune",
+            "description": "C’est désormais officiel. L’Algérie ne prendra pas part à la 25e édition de la Coupe d’Afrique des Nations Seniors Hommes de Handball, qui sera organisée du 13 au 23 janvier 2022 à Guelmim et Laayoune au Maroc. Hier, la Confédération Africaine de Handball a levé le voile sur la liste des pays concernés par le tirage au sort de la compétition. L’équipe algérienne, pourtant qualifiée, n’y figure pas.",
+            "url": "https://www.yabiladi.com/articles/details/121919/l-algerie-boycotte-handball-organisee-guelmim.html",
+            "source": "yabiladi.com",
+            "image": "https://static.yabiladi.com/files/articles/06d72e2a7570cff53481268f40b48e5920211208182714150.jpeg",
+            "category": "general",
+            "language": "ar",
+            "country": "ma",
+            "published_at": null
+        },
+        {
+            "author": null,
+            "title": "Maroc : Report sine die du championnat de cyclisme du Maroc",
+            "description": "Le championnat du Maroc de courses sur route pour la saison 2021-2022, initialement prévu du 10 au 12 décembre à Benslimane, a été reporté à une date ultérieure non fixée, a annoncé mardi la Fédération royale marocaine de Cyclisme (FRMC) dans un communiqué. Ce report sexplique par la situation sanitaire et épidémiologique au Maroc et dans le monde en raison de la covid-19 et ses nouveaux variants.",
+            "url": "https://www.yabiladi.com/articles/details/121907/maroc-report-sine-championnat-cyclisme.html",
+            "source": "yabiladi.com",
+            "image": "https://static.yabiladi.com/files/articles/d724a69734a6c99bd2909998cfd0fe9220211208092746150.jpg",
+            "category": "general",
+            "language": "ar",
+            "country": "ma",
+            "published_at": null
+        }
+    ]
+}
