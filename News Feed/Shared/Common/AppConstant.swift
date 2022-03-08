@@ -13,6 +13,21 @@ struct AppConstant {
     static let pageLimit = 30
 }
 
+struct StringConstant {
+    enum TabBarCoordinator {
+        static let news = "News"
+        static let saveNews = "No News Found"
+    }
+    
+    enum NewsFeedViewController {
+        static let noDataFound = "No News Found"
+    }
+    
+    enum SavedNewsFeedViewController {
+        static let noSaveDataFound = "No Save News Found"
+    }
+}
+
 enum CommonErrors {
     static let noNetwork = "No network available"
     static let somethingWentWrong = "Something went wrong, Please try again!"

@@ -98,7 +98,7 @@ class NewsFeedViewController: BaseViewController {
         if emptyView == nil {
             emptyView = EmptyView(frame: self.view.bounds)
             self.view.addSubview(emptyView!)
-            emptyView?.setUpData(emptyScreenTitle: "No News Found", image: UIImage(systemName: "arrow.clockwise.circle"))
+            emptyView?.setUpData(emptyScreenTitle: StringConstant.NewsFeedViewController.noDataFound, image: UIImage(systemName: "arrow.clockwise.circle"))
             self.emptyView?.retryButtonTapped
                 .receive(on: RunLoop.main)
                 .sink(receiveValue: { [weak self] in

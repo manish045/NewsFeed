@@ -17,9 +17,9 @@ enum ViewControllerItem: Int {
     var title: String {
         switch self {
         case .first:
-            return "News"
+            return StringConstant.TabBarCoordinator.news
         case .second:
-            return "Saved News"
+            return StringConstant.TabBarCoordinator.saveNews
         }
     }
     
