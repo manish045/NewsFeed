@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 // Name of the coordinators/stacks
-enum ViewControllerItem: Int {
+enum ViewControllerItem: Int, CaseIterable {
     case first = 0
     case second = 1
     
@@ -54,12 +54,9 @@ final class TabBarSource: TabBarSourceType {
     
     // Initialise the TabBar items with name and Icons
     init() {
-        let firstIcon = ViewControllerItem.first.icon
-        let filledFirstIcon = ViewControllerItem.first.filledIcon
-        self[.first].tabBarItem = UITabBarItem(title: ViewControllerItem.first.title, image: firstIcon, selectedImage: filledFirstIcon)
-        let secondIcon = ViewControllerItem.second.icon
-        let filledSecondIcon = ViewControllerItem.second.filledIcon
-        self[.second].tabBarItem = UITabBarItem(title: ViewControllerItem.second.title, image: secondIcon, selectedImage: filledSecondIcon)
+        for controllerItem in ViewControllerItem.allCases {
+            self[controllerItem].tabBarItem = UITabBarItem(title: controllerItem.title, image: controllerItem.icon, selectedImage: controllerItem.filledIcon)
+        }
     }
 }
 
